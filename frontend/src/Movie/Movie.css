@@ -1,0 +1,38 @@
+h2 { 
+  margin: 0;
+  padding: 0;
+  line-height: 30px;
+  height: 25px;
+}
+
+img {
+    object-fit: cover;
+    width:150px;
+    height:200px;
+  }
+
+.movie-container { 
+    margin: 0px 30px 30px 30px;
+}
+
+.upvote { 
+  float: left; 
+  text-align: center;
+  padding-right: 15px;
+}
+
+.upvote-number { 
+  font-size: 20pt;
+  color: #2196f3;
+}
+
+
+.movie-poster {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.movie-description { 
+  display:inline-block;
+  vertical-align: top;
+}
