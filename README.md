@@ -1,5 +1,8 @@
 # movie-rankings
 
+![movie-rankings preview](./movie-rankings.png)
+*A preview of what it looks like!*
+
 ## Overview
 
 A site for people to submit movies and 'upvote' them. Movies with more upvotes will go to the top. You can also search for movies based on movie titles. 
